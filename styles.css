@@ -3,7 +3,7 @@ body {
   background-image: url("background.png");
 
   /* Set a specified height, or the minimum height for the background image */
-  min-height: 4563px;
+  min-height: 5730px;
 
   /* Set background image to fixed (don't scroll along with the page) */
   background-attachment: scroll;
