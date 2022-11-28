@@ -1,5 +1,5 @@
 # paague.github.io
-mainpage
+
 its basically a repo for my concept landing page, 
 i needed to host the image somewhere and add scalability (why? because i wanted to)
 
